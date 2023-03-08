@@ -15,7 +15,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -23,7 +25,7 @@
 <p align="center">
 <a href="https://github.com/cbastianramirez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbastianramirez&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbastianramirez&layout=compact&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbastianramirez&hide=html&layout=compact&theme=vue-dark" />
 </a>
 </p>
 
