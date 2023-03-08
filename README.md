@@ -24,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring&logoColor=6DB33F)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-333333?style=flat&logo=cisco&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=mongo&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
