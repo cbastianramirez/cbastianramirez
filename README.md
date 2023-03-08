@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-** ✒️ Languages I have used**
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and learning new stuff.\
+🌱 &nbsp;I'm currently studying about Django Framework and Design Patterns by myself.\
+✍️ &nbsp;In my free time, I pursue Photography and hiking as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at cbastianramirez@gmail.com! I'll try to respond as soon as I can.\
+
+### ✒️ Languages I have used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
@@ -8,7 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 
-** 🤖 Some of the technologies I have worked with**
+### 🛠 &nbsp;Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
