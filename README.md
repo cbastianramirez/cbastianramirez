@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/cbastianramirez"><img src="https://img.shields.io/badge/-Sebastián%20Ramírez%20Amador-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cbastianramirez@gmail.com"><img src="https://img.shields.io/badge/-cbastianramirez@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/lasfotosdesebas"><img src="https://img.shields.io/badge/-@lasfotosdesebas-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/cbastianramirez"><img src="https://img.shields.io/badge/-Sebastián%20Ramírez%20Amador-18C1F7 ?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 <!--
 **cbastianramirez/cbastianramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
