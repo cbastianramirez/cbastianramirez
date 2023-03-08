@@ -1,4 +1,4 @@
-### Hi there 👋
+### &nbsp;Hi there 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -8,7 +8,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at cbastianramirez@gmail.com! I'll try to respond as soon as I can.\
 
-### ✒️ Languages I have used
+### ✒️ &nbsp;Languages I have used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
