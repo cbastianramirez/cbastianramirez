@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://github.com/cbastianramirez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbastianramirez&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbastianramirez&hide=html&layout=compact&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbastianramirez&hide=html&layout=compact&langs_count=6&theme=vue-dark" />
 </a>
 </p>
 
