@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Languages I have used**
+** ✒️ Languages I have used**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396)
@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-**Some of the technologies I have worked with**
+** 🤖 Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
